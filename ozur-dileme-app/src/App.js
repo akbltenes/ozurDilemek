@@ -189,7 +189,7 @@ function App() {
       {/* Ana başlık - ekranın en üstünde */}
       <div className="fixed top-8 left-1/2 transform -translate-x-1/2 text-center z-10">
         <h1 className="text-4xl md:text-6xl font-bold text-white mb-4 drop-shadow-lg">
-          Özür Dilerim 🥺
+          Özür Dilerim ESRA'M
         </h1>
         <p className="text-2xl md:text-3xl text-white drop-shadow-md">
           Barışalım mı? 💕
